@@ -10,7 +10,7 @@ A smart AI-powered DevOps assistant that **monitors logs**, **detects errors**, 
 
 ## 🌐 Live Demo
 
-🔗 **Try it now** → [https://selfhealingcodeagent.streamlit.app](https://selfhealingcodeagent.streamlit.app)
+🔗 **Try it now** → ([https://selfhealingcodeagent.streamlit.app](https://selfhealingcodeagent-jt4jbp3djtau448bbrxyhj.streamlit.app/))
 
 ---
 
