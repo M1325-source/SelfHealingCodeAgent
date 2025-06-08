@@ -4,14 +4,6 @@
 
 A smart AI-powered DevOps assistant that **monitors logs**, **detects errors**, and **suggests real-time bug fixes** using **GPT-4**. It even simulates a CI/CD pipeline by auto-generating a Pull Request with the fix.
 
-[![Streamlit Live App](https://img.shields.io/badge/🚀%20Try%20Now-Streamlit%20App-orange?logo=streamlit)](https://selfhealingcodeagent.streamlit.app)
-
----
-
-## 🌐 Live Demo
-
-🔗 **Try it now** → ([https://selfhealingcodeagent.streamlit.app](https://selfhealingcodeagent-jt4jbp3djtau448bbrxyhj.streamlit.app/))
-
 ---
 
 ## 📁 Folder Structure
