@@ -1,0 +1,5 @@
+openai
+watchdog
+python-dotenv
+PyGithub
+streamlit
