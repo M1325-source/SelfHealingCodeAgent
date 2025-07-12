@@ -6,6 +6,17 @@ A smart AI-powered DevOps assistant that **monitors logs**, **detects errors**, 
 
 ---
 
+📸 Screenshots
+<img width="1315" height="550" alt="Screenshot 2025-07-12 162852" src="https://github.com/user-attachments/assets/37e5227b-f07f-4200-86ea-7d57a7cdd597" />
+
+<img width="1229" height="452" alt="Screenshot 2025-07-12 162555" src="https://github.com/user-attachments/assets/4666d1c1-207c-4695-991c-924fcaf118f8" />
+
+<img width="1282" height="708" alt="Screenshot 2025-07-12 162335" src="https://github.com/user-attachments/assets/5eb5ecec-042a-4888-a56f-56455a6d832e" />
+
+<img width="1275" height="654" alt="Screenshot 2025-07-12 162419" src="https://github.com/user-attachments/assets/c0a3e79f-0c17-426a-8478-c0318849efe7" />
+
+<img width="717" height="356" alt="Screenshot 2025-07-12 162453" src="https://github.com/user-attachments/assets/00025de1-3212-49a6-a998-919d825049de" />
+
 ## 📁 Folder Structure
 
 SelfHealingCodeAgent/
@@ -80,16 +91,7 @@ Auto PR to GitHub	PyGitHub / GitHub API
 Auto-testing pipeline	Pytest + GitHub Actions
 Fix verification loop	Reinforcement Learning
 
-📸 Screenshots
-<img width="1315" height="550" alt="Screenshot 2025-07-12 162852" src="https://github.com/user-attachments/assets/37e5227b-f07f-4200-86ea-7d57a7cdd597" />
 
-<img width="1229" height="452" alt="Screenshot 2025-07-12 162555" src="https://github.com/user-attachments/assets/4666d1c1-207c-4695-991c-924fcaf118f8" />
-
-<img width="1282" height="708" alt="Screenshot 2025-07-12 162335" src="https://github.com/user-attachments/assets/5eb5ecec-042a-4888-a56f-56455a6d832e" />
-
-<img width="1275" height="654" alt="Screenshot 2025-07-12 162419" src="https://github.com/user-attachments/assets/c0a3e79f-0c17-426a-8478-c0318849efe7" />
-
-<img width="717" height="356" alt="Screenshot 2025-07-12 162453" src="https://github.com/user-attachments/assets/00025de1-3212-49a6-a998-919d825049de" />
 
 ✨ Show Some Love
 If you like this project, please consider giving it a ⭐ star and sharing it with your dev friends!
